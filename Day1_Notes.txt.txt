@@ -1,0 +1,11 @@
+# Day 1 — Excel Fundamentals
+
+## What I Learned
+- SUM, AVERAGE, COUNT, COUNTIF, SUMIF
+- IF statements and nested IF
+- VLOOKUP to merge two tables
+- Text cleaning with TRIM, PROPER
+
+## Key Insight
+West region has highest sales but Central has better profit margin
+like wise i learn
