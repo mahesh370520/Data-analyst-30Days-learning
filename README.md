@@ -53,7 +53,7 @@
 
 | Day | Topic | Project | Status |
 |-----|-------|---------|--------|
-| Day 1 | Excel Fundamentals — Formulas & Functions | Sales Performance Audit — Superstore Data | ⏳ |
+| Day 1 | Excel Fundamentals — Formulas & Functions | Sales Performance Audit — Superstore Data | ✅ |
 | Day 2 | Pivot Tables + Charts | Executive Sales Dashboard | ⏳ |
 | Day 3 | Data Cleaning Techniques | Messy HR Dataset Cleanup | ⏳ |
 | Day 4 | Advanced Formulas — INDEX, MATCH, XLOOKUP | Product Lookup & Pricing System | ⏳ |
@@ -107,50 +107,6 @@
 | Day 28 | End-to-End Capstone Project — Day 2 | E-Commerce Performance Dashboard | ⏳ |
 | Day 29 | Resume + LinkedIn + GitHub Portfolio Polish | Portfolio Review & Update | ⏳ |
 | Day 30 | Mock Interview + Case Study Practice | SQL + Excel + Power BI Case Study | ⏳ |
-
----
-
-## 📁 Repository Structure
-
-```
-📁 data-analyst-journey/
-│
-├── 📄 README.md                        ← You are here
-│
-├── 📁 Week1-Excel/
-│   ├── 📁 Day1-Sales-Audit/
-│   │   ├── Day1_SalesAudit_Mahesh.xlsx
-│   │   └── Day1_Notes.md
-│   ├── 📁 Day2-Pivot-Dashboard/
-│   ├── 📁 Day3-Data-Cleaning/
-│   └── 📁 datasets/
-│       └── superstore.csv
-│
-├── 📁 Week2-SQL/
-│   ├── 📁 Day8-Basics/
-│   │   ├── Day8_queries.sql
-│   │   └── Day8_Notes.md
-│   ├── 📁 Day9-GroupBy/
-│   └── 📁 datasets/
-│
-├── 📁 Week3-Python/
-│   ├── 📁 Day15-Pandas-Basics/
-│   │   ├── Day15_analysis.ipynb
-│   │   └── Day15_Notes.md
-│   └── 📁 datasets/
-│
-├── 📁 Week4-PowerBI/
-│   ├── 📁 Day22-Basics/
-│   ├── 📁 Day26-Dashboard/
-│   │   └── Dashboard.pbix
-│   └── 📁 Capstone-Project/
-│
-└── 📁 Interview-Prep/
-    ├── SQL_Questions.md
-    ├── Excel_Questions.md
-    ├── Case_Studies.md
-    └── Resume_Tips.md
-```
 
 ---
 
@@ -209,42 +165,7 @@
 - [ ] Slicers, drillthrough, tooltips for interactivity
 - [ ] Publishing & sharing dashboards
 
----
 
-## 🔥 Interview Preparation
-
-### SQL Questions Practiced
-- Top N queries using RANK/DENSE_RANK
-- Month-over-Month growth using LAG
-- Customer retention using self-joins
-- Finding duplicates, nulls, anomalies
-
-### Excel Questions Practiced
-- VLOOKUP vs XLOOKUP vs INDEX-MATCH
-- Pivot Table analysis problems
-- Dashboard design questions
-- Data cleaning scenarios
-
-### Case Studies Practiced
-- Sales decline analysis
-- Customer churn investigation
-- Profitability deep-dive
-
----
-
-## 📈 Consistency Tracker
-
-```
-May 2026
-Mo Tu We Th Fr Sa Su
-                1  2
- 3  4  5  6  7  8  9
-10 11 12 13 14 15 16
-17 18 19 20 21 22 23
-24 25 26 27 28 29 30
-
-⬜ = Not Started  🟨 = In Progress  🟩 = Completed
-```
 
 ---
 
